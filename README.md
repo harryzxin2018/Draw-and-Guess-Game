@@ -1,4 +1,5 @@
 Draw-and-guess game
+
 Hi Everyone!
 
 This is a project for the CSCI-SHU 101 Introduction to Computer Science at NYU Shanghai by Zixin Wang and Chuyi Zhang.
